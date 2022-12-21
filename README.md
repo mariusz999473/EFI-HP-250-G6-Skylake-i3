@@ -8,6 +8,8 @@ RAM: 8GB
 
 GPU: Intel HD Graphics 520
 
+
+
 Working :
 
 wifi heliport
@@ -20,8 +22,14 @@ audio from speakers
 
 jack audio
 
-![image](https://user-images.githubusercontent.com/29676647/208984055-6ba43eb9-db5d-4dcc-97c7-d6c50747ed95.png)
 
 
 before instalation use GenSMBIOS to generate in config.plist this is a model MacBookPro13,1
+
+
+
+![image](https://user-images.githubusercontent.com/29676647/208984055-6ba43eb9-db5d-4dcc-97c7-d6c50747ed95.png)
+
+
+
 
