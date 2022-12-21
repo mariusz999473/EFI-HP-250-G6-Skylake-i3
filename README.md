@@ -33,3 +33,10 @@ before instalation use GenSMBIOS to generate in config.plist this is a model Mac
 
 
 
+DOWNLOAD FROM MEGA
+https://mega.nz/file/Kp4UTSoL#T0kmTRjYb58zqCkfIlNs2lTyLbcKnUi2RJ12DjkBGsE
+
+DOWNLOAD FROM GDRIVE
+https://drive.google.com/file/d/1lgDPxdTQob6XLPFzINwbqRXprXXYlFGB/view?usp=share_link
+
+
